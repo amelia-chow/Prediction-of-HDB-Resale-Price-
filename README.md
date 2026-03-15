@@ -70,5 +70,4 @@ Models were evaluated using:
 - Random Forest achieved a perfect fit on the training set, which may suggest slight overfitting
 - Linear Regression showed more consistent performance between training and testing sets
 
-Full code: [HDB_resale_price](HDB resale prices.ipynb)
-
+Full code: [HDB resale price](HDB resale prices.ipynb)
