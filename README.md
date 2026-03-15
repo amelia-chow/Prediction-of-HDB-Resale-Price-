@@ -20,7 +20,7 @@ The dataset consists of historical data from **January 2017 to March 2026** and 
 - `hdb_age`
 - `storey_range`
 
-Full csv file: [HDB resale prices flat](resale flat prices.csv)
+Full csv file: [HDB resale prices flat](resale_flat_prices.csv)
 
 ## Tools and Libraries Used
 
@@ -70,4 +70,5 @@ Models were evaluated using:
 - Random Forest achieved a perfect fit on the training set, which may suggest slight overfitting
 - Linear Regression showed more consistent performance between training and testing sets
 
-Full code: [HDB resale price](HDB resale prices.ipynb)
+
+Full code: [HDB resale prices](HDB_resale_prices.ipynb)
