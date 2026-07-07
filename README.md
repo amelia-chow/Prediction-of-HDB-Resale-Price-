@@ -1,4 +1,4 @@
-# House Price Prediction
+# HDB Resale Price Prediction
 
 ## Project Overview
 This mini project aims to analyses HDB resale flat data to explore factors affecting resale prices and predict HDB flat resale prices in Singapore. 
