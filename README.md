@@ -1,10 +1,10 @@
-# HDB Resale Price Prediction
+# 🏠HDB Resale Price Prediction
 
 ## Project Overview
 This mini project aims to analyses HDB resale flat data to explore factors affecting resale prices and predict HDB flat resale prices in Singapore. 
 The project combines exploratory data analysis, clustering, and regression modelling to uncover patterns in the data and evaluate predictive performance.
 
-## Project Objectives
+## 📝Project Objectives
 
 - Explore key factors influencing HDB resale prices
 - Identify patterns and relationships between housing characteristics and price
@@ -22,7 +22,7 @@ The dataset consists of historical data from **January 2017 to March 2026** and 
 
 Full csv file: [HDB resale prices flat](resale_flat_prices.csv)
 
-## Tools and Libraries Used
+## 🛠️Tools and Libraries Used
 
 - Python
 - Pandas
@@ -32,14 +32,14 @@ Full csv file: [HDB resale prices flat](resale_flat_prices.csv)
 - Scikit-learn
 - Jupyter Notebook
 
-## Project Workflow
+## 📁Project Workflow
 
-### 1. Data Cleaning and Preparation
+### 1.🧹 Data Cleaning and Preparation
 - Checked for missing values and data types
 - Converted variables into suitable formats for analysis
 - Transformed `storey_range` into a numeric midpoint value
 
-### 2. Exploratory Data Analysis (EDA)
+### 2.📈Exploratory Data Analysis (EDA)
 - Analysed the distribution of resale prices
 - Studied relationships between resale price and features such as HDB age, floor area, Town
 - Used visualisations such as histograms, scatter plots, box plots, and correlation matrices
